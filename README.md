@@ -1,6 +1,6 @@
 # Maternarê — Estrutura inicial do MVP
 
-Este ZIP contém uma estrutura inicial organizada em `src`, com backend em arquitetura MVC e frontend em HTML, CSS e JavaScript puro.
+Este ZIP contém uma estrutura inicial organizada em `src`, com backend em arquitetura MVC e frontend em HTML, CSS e JavaScript puro.g
 
 ## O que já vem pronto
 
