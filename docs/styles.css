@@ -2277,6 +2277,7 @@ h1,
   position: relative;
   z-index: 3;
   max-width: 640px;
+  font-size: clamp(3rem, 5vw, 6rem) !important;
   text-wrap: balance;
 }
 
